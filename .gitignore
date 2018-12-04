@@ -1,3 +1,7 @@
 .idea
+.project
+.gitignore
+LICENSE
+readme.md
 node_modules
 *.log
